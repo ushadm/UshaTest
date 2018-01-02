@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is A69A-EF88
+
+ Directory of C:\Users\usha\Desktop\MyProject
+
+01/02/2018  05:44 PM    <DIR>          .
+01/02/2018  05:44 PM    <DIR>          ..
+01/02/2018  05:44 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  644,111,306,752 bytes free
+added to git
